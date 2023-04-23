@@ -1,0 +1,23 @@
+table,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0px;
+    
+}
+input {
+    border: none;
+    width: 195px;
+}
+tr {
+    height: 25px;
+    width: 200px;
+    
+}
+td {
+    height: 25px;
+    width:200px;
+}
+.date {
+    display: inline-block;
+    
+}

@@ -1,0 +1,17 @@
+.analiz-mec {
+    width: 200px;
+    border: 1px solid black;
+    height: 40px;
+    text-align: center;
+    font-size: 16px;
+    font-style: bold;
+}
+.mec-input {
+    font-size: 17px;
+text-align: center;
+}
+.mec-input-1 {
+    font-size: 20px;
+    text-align: start;
+    font-weight: bold;
+}

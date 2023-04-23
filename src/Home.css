@@ -1,0 +1,26 @@
+.next-page {
+    width: 150px;
+    height: 60px;
+    background-color: white;
+    
+   
+
+    
+}
+
+
+
+
+.link-comp {
+    display: flex;
+    
+}
+.link {
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+.musteri{
+    width: 1000px;
+    height: 1000px;
+}

@@ -1,0 +1,55 @@
+.analizhead {
+    width: 1001px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+   
+}
+.analiz-head {
+    border: 1px solid black;
+    height: 50px;
+    width: 100px;
+   
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.analiz-head2 {
+    border: 1px solid black;
+    height: 50px;
+    width: 100px;
+   
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+
+
+.analiz-text {
+    width: 100px;
+    height: 25px;
+}
+.analiz-input {
+    width: 97px;
+    height: 25px;
+    text-align: end;
+    font-size: 16px;
+
+}
+.analiz-input1 {
+    width: 97px;
+    height: 25px;
+    text-align: start;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.analiz-test1 {
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;    
+}
